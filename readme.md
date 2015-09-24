@@ -1,1 +1,1 @@
-Personal tests
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/debjan/bokeh_test)
